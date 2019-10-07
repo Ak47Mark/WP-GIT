@@ -11,9 +11,18 @@ msgstr ""
 "Language: hu\n"
 "Project-Id-Version: Themes - Twenty Nineteen\n"
 
+#. Description of the theme
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr ""
+
 #. Theme Name of the theme
 msgid "Twenty Nineteen"
 msgstr "Twenty Nineteen"
+
+#. translators: %s: parent post link
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr ""
 
 #: image.php:87
 msgctxt "Parent post link"
@@ -365,6 +374,10 @@ msgstr "Úgy tűnik, ezen a helyen nem található amit kerestünk. Talán egy �
 #: 404.php:20
 msgid "Oops! That page can&rsquo;t be found."
 msgstr "A keresett oldal nem található."
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr ""
 
 #. Author of the theme
 msgid "the WordPress team"
